@@ -14,7 +14,7 @@ Python Script for Email Bombing which supports Gmail, Yahoo, Hotmail/Outlook
 mBomber should work on all Linux distros running Python 2.7
 First, clone it by entering the following command in the terminal
 ``` bash
-git clone https://github.com/jehad/mBomber.git
+git clone https://github.com/Jehad522/fdsfdfdf.git
 ```
 Now navigate to EmBomber directory
 ``` bash
